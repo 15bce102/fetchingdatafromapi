@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">StudyRoomTest</string>
+
+    <string name="header">STUDYROOM.LIVE TASK</string>
+    <string name="search_hint">Enter search tag</string>
+    <string name="button_text">SEARCH</string>
+</resources>
